@@ -2,7 +2,8 @@ excerpt_separator: ""
 pygments: true
 markdown: kramdown
 url: http://ricoramiro.github.io
-title: Ramiro Rodriguez 
-tagline: Blogging for Fun
-description: My awesome new site
+title: Learning to Become a Web Developer 
+tagline: Blogging for Experience
+description: I'm a web dev student that has some experience.  I programmed Apple computers in the late or mid eighties
+and I currently know html 5 and I'm learning CSS.
 paginate: 5
